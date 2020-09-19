@@ -5,14 +5,14 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=Kai9026" alt="visitor badge"/>
 </p>
 
-<h4 style='color:#ee2523'>Artifact</h1>
+#### Artifact
 
 You can't find me at Maven Central (yet) but you can contact me through the following social networks:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' align='center' alt='linkedin' height='20'>](https://www.linkedin.com/in/alazarol020790) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' align='center' alt='twitter' height='20'>](https://twitter.com/ztiakra90)
 
 
-<h4 style='color:#ee2523'>Specs</h4>
+#### Specs
 
 Experience in the development of applications, mainly web type, working in the **Backend** area. Greater expertise in JAVA technology as well as in multiple of its frameworks: Spring (Core, Boot, Security, etc), Struts, JSF, Hibernate, Quarkus. 
 
@@ -20,7 +20,7 @@ Some experience in **Frontend** development, using frameworks such as Angular (v
 
 Practitioner of the term **DevOps**, trying to learn and participate in the whole development cycle.
 
-<h4 style='color:#ee2523'>How was it been designed</h4>
+#### How was it been designed
 
 - Programming languages:
    
@@ -52,7 +52,7 @@ Practitioner of the term **DevOps**, trying to learn and participate in the whol
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=yellow"/>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=green"/>
 
-<h4 style='color:#ee2523'>Stats</h4>
+#### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai9026&langs_count=10&layout=compact)](https://github.com/Kai9026/)
 
