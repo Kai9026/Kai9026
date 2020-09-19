@@ -58,4 +58,4 @@ Practitioner of the term **DevOps**, trying to learn and participate in the whol
 
 </div>
 
-<center>Made with 💻 and a lot of ☕☕ </center>
+<p align='center'>Made with 💻 and a lot of ☕☕ </p>
