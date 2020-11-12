@@ -52,6 +52,10 @@ Practitioner of the term **DevOps**, trying to learn and participate in the whol
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=yellow"/>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=green"/>
 
+## Newsletter
+
+- [Quarkus.Getting started](https://www.paradigmadigital.com/dev/quarkus-dale-impulso-a-tus-microservicios)
+
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai9026&langs_count=10&layout=compact)](https://github.com/Kai9026/)
