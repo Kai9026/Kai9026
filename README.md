@@ -55,6 +55,7 @@ Practitioner of the term **DevOps**, trying to learn and participate in the whol
 ## Newsletter
 
 - [Quarkus.Getting started](https://www.paradigmadigital.com/dev/quarkus-dale-impulso-a-tus-microservicios)
+- [ArchUnit.First steps](https://www.paradigmadigital.com/dev/archunit-consolida-cimientos-aplicacion)
 
 ## Stats
 
